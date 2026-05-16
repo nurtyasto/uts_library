@@ -1,0 +1,5 @@
+vendor/* linguist-vendored
+system/* linguist-vendored
+tests/* linguist-vendored
+
+*.php linguist-language=PHP
